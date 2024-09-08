@@ -1,0 +1,1 @@
+print("droofis-npcs loaded")
